@@ -1,0 +1,23 @@
+# build
+build/
+.gradle/
+out/
+run/
+*.log
+*.log.err
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# third-party / not redistributable
+libs/*.jar
+decomp/
+tools/
+_backup*/
+
+# local scripts
+build.ps1

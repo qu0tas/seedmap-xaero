@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "ru.saint.seedmap.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "GuiMapAccessor",
+    "GuiMapMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
